@@ -1,0 +1,27 @@
+input {
+    width: 150px;
+    height: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 50px;
+    background-color: #00094b;
+    color: white;
+    border: 5px solid;
+    cursor: pointer;
+}
+
+#form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #00094b;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: antiquewhite;
+}
